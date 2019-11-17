@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wasteswipe/static/css/main.963a7828.chunk.css",
-    "main.js": "/wasteswipe/static/js/main.dca85c72.chunk.js",
-    "main.js.map": "/wasteswipe/static/js/main.dca85c72.chunk.js.map",
+    "main.js": "/wasteswipe/static/js/main.adddf6f0.chunk.js",
+    "main.js.map": "/wasteswipe/static/js/main.adddf6f0.chunk.js.map",
     "runtime-main.js": "/wasteswipe/static/js/runtime-main.96ee585b.js",
     "runtime-main.js.map": "/wasteswipe/static/js/runtime-main.96ee585b.js.map",
     "static/js/2.1cef2ead.chunk.js": "/wasteswipe/static/js/2.1cef2ead.chunk.js",
     "static/js/2.1cef2ead.chunk.js.map": "/wasteswipe/static/js/2.1cef2ead.chunk.js.map",
     "index.html": "/wasteswipe/index.html",
-    "precache-manifest.1e58e9e2bef407dd297a38395292cd3b.js": "/wasteswipe/precache-manifest.1e58e9e2bef407dd297a38395292cd3b.js",
+    "precache-manifest.08fb74e4fb780f7fd63fa774cf6de203.js": "/wasteswipe/precache-manifest.08fb74e4fb780f7fd63fa774cf6de203.js",
     "service-worker.js": "/wasteswipe/service-worker.js",
     "static/css/main.963a7828.chunk.css.map": "/wasteswipe/static/css/main.963a7828.chunk.css.map",
     "static/media/logo.png": "/wasteswipe/static/media/logo.2949e7e3.png"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.96ee585b.js",
     "static/js/2.1cef2ead.chunk.js",
     "static/css/main.963a7828.chunk.css",
-    "static/js/main.dca85c72.chunk.js"
+    "static/js/main.adddf6f0.chunk.js"
   ]
 }

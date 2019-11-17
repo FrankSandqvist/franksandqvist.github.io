@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9570d997256fe357544ed2ac9cf09fe8",
+    "revision": "0a2effb5846a4d2adf25eaa2a732011e",
     "url": "/wasteswipe/index.html"
   },
   {
-    "revision": "e0195721fefcd6cc83e6",
+    "revision": "d5fc091fe258dbd2fc08",
     "url": "/wasteswipe/static/css/main.963a7828.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wasteswipe/static/js/2.1cef2ead.chunk.js"
   },
   {
-    "revision": "e0195721fefcd6cc83e6",
-    "url": "/wasteswipe/static/js/main.dca85c72.chunk.js"
+    "revision": "d5fc091fe258dbd2fc08",
+    "url": "/wasteswipe/static/js/main.adddf6f0.chunk.js"
   },
   {
     "revision": "32a5355be69a44611926",
